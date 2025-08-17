@@ -1,5 +1,6 @@
 # 🏦 Bank Statement Analyzer
-*AI-powered financial analysis through intelligent multi-agent processing*
+*AI-powered financial analysis through intelligent multi-agent processing. *
+*Video Presentation - [Click Here](https://www.youtube.com/watch?v=kiBZ86F8_SU)*
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io)
